@@ -16,7 +16,6 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 | Programming Languages | C++, Python, SQL |
 | GUI / Frameworks | Qt6, QML |
 | Tools | Git, GitHub, VS Code, CMake |
-| OS | Linux (Pardus, Fedora), Windows |
 
 ## What I'm Working On
 
