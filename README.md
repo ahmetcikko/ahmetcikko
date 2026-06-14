@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ahmet.
 
-<!--
-**ahmetcikko/ahmetcikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about systems programming, software development, and building things from scratch.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build low-level and systems software in **C++** and **Python**
+- Comfortable with **SQL** for data management
+- Hobbyist **PC builder**, I love the hardware side as much as the software side
+- Native Turkish speaker, **C2 English**
+
+## Languages & Tools
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | C++, Python, SQL |
+| GUI / Frameworks | Qt6, QML |
+| Tools | Git, GitHub, VS Code, CMake |
+| OS | Linux (Pardus, Fedora), Windows |
+
+## What I'm Working On
+
+- A hardware monitoring and system optimization desktop application for Linux, built with **C++ and Qt6/QML**
