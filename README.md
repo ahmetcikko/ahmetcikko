@@ -20,3 +20,5 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 ## What I'm Working On
 
 - A hardware monitoring and system optimization desktop application for Linux, built with **C++ and Qt6/QML**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcikko)](https://github.com/ahmetcikko)
