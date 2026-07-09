@@ -21,4 +21,4 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 
 - A hardware monitoring and system optimization desktop application for Debian, built with **C++ and Qt6/QML**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcikko&theme=tokyonight)
+[![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcikko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
