@@ -4,7 +4,8 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 
 ## About Me
 
-- I build low-level and systems software in **C++** and **Python**
+- I build low-level and systems software in **C++**
+- I build high level software and tools for automation in **Python**
 - Comfortable with **SQL** for data management
 - Hobbyist **PC builder**, I love the hardware side as much as the software side
 - Native Turkish speaker, **C2 English**
