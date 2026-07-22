@@ -8,9 +8,8 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 - I build high level software and tools for automation in **Python**
 - Comfortable with **SQL** for data management
 - Hobbyist **PC builder**, I love the hardware side as much as the software side
-- Native Turkish speaker, **C2 English**
 
-## Languages & Tools
+## Programming Languages & Tools
 
 | Category | Technologies |
 |---|---|
@@ -18,8 +17,15 @@ I'm a high school student (11th grade) from Gaziantep, Turkey, passionate about 
 | GUI / Frameworks | Qt6, QML |
 | Tools | Git, GitHub, VS Code, CMake |
 
+## Languages
+
+| Language | Level |
+|---|---|
+| English | Native |
+| Turkish | Native |
+
 ## What I'm Working On
 
-- A hardware monitoring and system optimization desktop application for Debian, built with **C++ and Qt6/QML**
+- A linux tool for users & developers 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahmetcikko&layout=donut-vertical&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ahmetcikko&layout=donut-vertical&langs_count=6&theme=dark)
